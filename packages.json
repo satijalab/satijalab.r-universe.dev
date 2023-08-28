@@ -1,0 +1,12 @@
+[
+    {
+        "package": "SeuratObject",
+        "url": "https://github.com/mojaveazure/seurat-object",
+        "branch": "seurat5"
+    },
+    {
+        "package": "Seurat",
+        "url": "https://github.com/satijalab/seurat",
+        "branch": "seurat5"
+    }
+]
