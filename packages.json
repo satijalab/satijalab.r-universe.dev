@@ -1,16 +1,6 @@
 [
     {
-        "package": "SeuratObject",
-        "url": "https://github.com/mojaveazure/seurat-object",
-        "branch": "seurat5"
-    },
-    {
         "package": "Seurat",
-        "url": "https://github.com/satijalab/seurat",
-        "branch": "seurat5"
-    },
-    {
-        "package": "Seurat4",
         "url": "https://github.com/satijalab/seurat",
         "branch": "seurat4"
     },
@@ -18,5 +8,4 @@
         "package": "presto",
         "url": "https://github.com/immunogenomics/presto"
     }
-
 ]
