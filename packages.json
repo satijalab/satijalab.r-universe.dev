@@ -12,5 +12,9 @@
     {
         "package": "presto",
         "url": "https://github.com/immunogenomics/presto"
+    },
+    {
+        "package": "enrichR",
+        "url": "https://github.com/wjawaid/enrichR"
     }
 ]
